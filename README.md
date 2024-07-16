@@ -1,5 +1,6 @@
-## Hi there 👋, I'm Narayan Khanal. 
-🌱 I’m currently learning React.<br>
+## Hi there👋, I'm Narayan Khanal. 
+### A Passionate Web Developer and An Aspiring SWE
+I've honed my skills in frontend development through dedicated learning of React and Tailwind CSS. Aspiring to become a Full Stack Developer, I am currently mastering Node.js for backend development and MongoDB for database management. Additionally, I am proficient in Python. <br>
 
 
 
