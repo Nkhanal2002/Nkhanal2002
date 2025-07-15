@@ -168,12 +168,12 @@
 ## Career Objectives
 
 **Seeking Full Stack Developer, Frontend Developer, or IT Support roles where I can:**
-- ✅ **Full Stack Development**: Build end-to-end applications using React, Node.js, and modern databases
-- ✅ **Frontend Excellence**: Create responsive, user-friendly interfaces with React, Next.js, and Tailwind CSS
-- ✅ **Backend Architecture**: Design scalable APIs and database solutions with Express.js and SQL/NoSQL
-- ✅ **IT Support Expertise**: Apply system administration and troubleshooting skills in technical environments
-- ✅ **Cross-functional Collaboration**: Bridge technical and business requirements through strong communication skills
-- ✅ **Continuous Learning**: Grow in dynamic, innovation-driven development teams
+- **Full Stack Development**: Build end-to-end applications using React, Node.js, and modern databases
+- **Frontend Excellence**: Create responsive, user-friendly interfaces with React, Next.js, and Tailwind CSS
+- **Backend Architecture**: Design scalable APIs and database solutions with Express.js and SQL/NoSQL
+- **IT Support Expertise**: Apply system administration and troubleshooting skills in technical environments
+- **Cross-functional Collaboration**: Bridge technical and business requirements through strong communication skills
+- **Continuous Learning**: Grow in dynamic, innovation-driven development teams
 
 ---
 
