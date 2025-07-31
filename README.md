@@ -104,7 +104,7 @@
 
 ## Featured Projects
 
-### [Share Sphere]([https://github.com/EDe-Graft/Share Sphere])
+### [Share Sphere]([https://github.com/EDe-Graft/ShareSphere])
 **Full-Stack Student Resource Sharing Platform**
 - **Frontend**: React with responsive UI, user authentication flows
 - **Backend**: Node.js API with Express.js, user management system
