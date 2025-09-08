@@ -112,7 +112,7 @@
 - **UI/UX**: Shadcn/UI components for consistent, modern design
 - **Impact**: Promotes campus sustainability and resource optimization
 
-### [Product Store](https://github.com/Nkhanal2002/product-store)
+### [Product Store](https://github.com/Nkhanal2002/mern-product-store)
 **Complete MERN Stack E-commerce Solution**
 - **Frontend**: React with Tailwind CSS, responsive product catalog
 - **Backend**: Express.js REST API with comprehensive CRUD operations
